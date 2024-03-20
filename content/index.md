@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: These are my notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my obsidian folder. If you have the link, it's probably because you know who I am. 
