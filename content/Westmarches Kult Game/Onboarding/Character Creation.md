@@ -1,0 +1,19 @@
+Character Creation in this is a matter of co-creation, where you and the storyteller arrive at the character in question. This process is a sort of “back and forth fiction writing” or having a pen-friend where you write letters back and forth to each other. This takes the shape of the following steps, which we call “The Memoriam Process”. It's worth 
+
+* ***Preludium**: The Player writes this first part, somewhere between 600 and 2400 characters. It should include the characters upbringing, familial relations, maturing as well as some of their strengths and triumphs. It should end with a great shame or failure on their part. This likely cements some amount of their attributes and / or relationships.
+* ***Stumbling block before the blind**: Based on this, the storyteller will narrate the first encounter with the supernatural. What drew the character in, and how they initially reacted. This likely cements some of dark secrets or disadvantages. 
+* ***Fall from Grace**: Having gotten their initial meeting with the supernatural, at some point or other the character makes a choice to go deeper. At this point the player writes 600 to 1200 characters about this. Many Sleepers can return, hide themselves from this and never see the truth. What made your character go deeper? What sacrifices did they make? How did they react to what they became? 
+* **The Rags of Divinity:** The Storyteller finalises the section of the backstory, which includes the characters inclusion into the Secret Society of the Rosicrusians and sets them up for play. 
+
+Based on this, the sheet is finalised and an archetype is picked. It should be noted that archetype is probably the last thing that falls into place, to fit the story and the process so far, and not picked first, as how one might do in a video game or a round-the-table home game. The storyteller and player both reserve the right to veto any particular archetype or advantage.
+
+## What is True for every single player character
+
+* **Tied to the City**: Every character must be tied to the city, to the point where if they ever left, it is the end of the characters story. They retire to a farm upstate, they are so broken they can no longer engage in anything or they simply chugged in the ocean. The city is where our story begins and ends.
+* **Society Member**: Every character is a member of the secret society known as the Rosicrusians. This is a cover organisation, representing the network of the Aware. There are other Aware out there, but these are generally viewed as too broken, inhuman or monstrous to be trifled with. While the character may not at all times agree with the society, its methods or its actions, it does realise that staying within the society is the best bet.
+* **Driven:** Whether its because you want more, you have a big heart and want to keep the mundane world safe, for your personal gain or something else, you want to keep going in this world, and can be counted on to pursue the goals set forth by the society, as well as whatever goals you yourself may have.
+* **Conflict Potential:** It is assumed that every character has some sort of goals, secrets or viewpoints that may come into conflict with other player characters, to the point of shouting matches, radical disagreement or, if both parties agree, to deadly violence.
+
+## Character Advancement
+
+Every advancement must be justified within the story,  and should reflect the actions taken and challenges faced by the character. All advancements must be approved by the storyteller. Generally speaking, a player character can only ever gain up to two experience points from the play-by-post parts of [[Our Format]].
