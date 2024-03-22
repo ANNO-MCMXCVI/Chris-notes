@@ -2,4 +2,10 @@ If you've played online for any amount of time, you are likely to have encounter
 
 This game attempts to combine these two. The 'safe' parts of the world are where play by post happens. This is where you do politics with other players, trade backstories and generally play the softer, more intimate, parts of the game. In voice sessions with the storyteller, we take a Westmarches approach, with a new adventure being on dock every day. 
 
-If this format sounds cool to you, maybe this game is for you. If so, you may wish to read a little about 
+If this format sounds cool to you, maybe this game is for you. If so, you may wish to read a little about:
+
+* [[Character Creation]]
+* [[Where we differ from Kult]]
+* [[Our Setting]]
+
+Happy reading! 
